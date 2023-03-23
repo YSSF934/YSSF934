@@ -5,7 +5,7 @@
 
 
 - 🌱 I have a background in Economics
-- 👯 I completed Udacity's Data Analyst Nanodegree in 2021 
+- 👯 I am a graduate of Udacity's Data Analyst Nanodegree 
 - 🤔 I am currently working for Thinkful as a Data Analyst Mentor 
 - 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 - 📚 I am passionate about using data to help guide strategic decisions
