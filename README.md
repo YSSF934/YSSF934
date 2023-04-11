@@ -23,9 +23,11 @@
  
  ⚡**Projects on Tableau**⚡
  
- - **Identifying Poor Markets**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/Identifying_sales_laggards/Story1)
+ -**Human Resources Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/HR_Dashboard_16805716287390/HRAnalyticsDashboards)
  
- - **World Cup Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/WorldCupDashboard_16292349126170/Dashboard2)
+ - **Netlfix Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/Netflix_dashboard_16799234906560/Netflix)
+ 
+ - **Identifying Poor Markets**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/Identifying_sales_laggards/Story1)
  
  - **UN Refugee Data**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/Un_refugee/Dashboard1)
  
