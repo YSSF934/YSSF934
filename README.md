@@ -23,7 +23,7 @@
  
  ⚡**Projects on Tableau**⚡
  
- -**Human Resources Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/HR_Dashboard_16805716287390/HRAnalyticsDashboards)
+ - **Human Resources Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/HR_Dashboard_16805716287390/HRAnalyticsDashboards)
  
  - **Netlfix Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/Netflix_dashboard_16799234906560/Netflix)
  
