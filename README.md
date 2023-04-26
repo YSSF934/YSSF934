@@ -21,7 +21,7 @@
 
 <p>&nbsp;</p>
  
- ⚡**Projects on Tableau**⚡
+ ⚡**Tableau**⚡
  
  - **Human Resources Dashboard**: Click [HERE](https://public.tableau.com/app/profile/yaron6843/viz/HR_Dashboard_16805716287390/HRAnalyticsDashboards)
  
